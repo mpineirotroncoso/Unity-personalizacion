@@ -40,11 +40,6 @@ Este proyecto es un juego de bolas utilizando Unity. Se ha diseñado un tablero 
 
 ---
 
-## Repositorio del Proyecto
-[Enlace al Repositorio](https://github.com/usuario/repositorio-unity-tablero)
-
----
-
 ## Futuras Mejorasn.
 - Adición de temporizadores para completar los niveles.
 - Mayor variedad de obstáculos, como trampolines y portales.
