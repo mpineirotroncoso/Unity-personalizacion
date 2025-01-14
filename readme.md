@@ -37,7 +37,11 @@ Este proyecto es un juego de bolas utilizando Unity. Se ha diseñado un tablero 
 ### Nivel 1 Gif
 ![Nivel 1](img/gif1.gif)
 
+### Imagen Nivel 2
+![Obstáculos](img/png2.png)
 
+### Nivel 2 Gif
+![Obstáculos](img/gif2.gif)
 ---
 
 ## Futuras Mejorasn.
